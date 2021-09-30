@@ -2,11 +2,9 @@
 
 
 
-### Olá bem vindo (a) as nossas deliciosas receitas! :meat_on_bone:
+### Olá bem vindo(a) as nossas deliciosas receitas! :meat_on_bone:
 
-- **Strogonoff de frango**
-- **Pudim**
-
+- ** [Strogonoff de frango](https://github.com/dsouzarogerio/livro-receitas/blob/master/receitas/strogonoff.md)**
 
 
 
